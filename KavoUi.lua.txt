@@ -133,8 +133,8 @@ local themeStyles = {
         TextColor = Color3.fromRGB(255,255,255),
         ElementColor = Color3.fromRGB(31, 31, 31)
     },
-    Vezt = {
-        SchemeColor = Color3.fromRGB(255, 140, 0),
+    Ape = {
+        SchemeColor = Color3.fromRGB(255, 154, 3),
         Background = Color3.fromRGB(0, 0, 0),
         Header = Color3.fromRGB(0, 0, 0),
         TextColor = Color3.fromRGB(255,255,255),
